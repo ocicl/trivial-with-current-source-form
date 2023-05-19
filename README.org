@@ -1,0 +1,9 @@
+* trivial-with-current-source-form
+
+Helps macro writers produce better errors for macro users.
+
+|---------+---------------------------------------------------------------------|
+| source  | git:https://github.com/scymtym/trivial-with-current-source-form.git |
+| commit  | 3898e09                                                             |
+| systems | trivial-with-current-source-form                                    |
+|---------+---------------------------------------------------------------------|
